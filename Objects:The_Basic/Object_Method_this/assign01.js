@@ -8,3 +8,4 @@ function makeUser() {
 let user = makeUser();
 
 console.log(user.ref.name); // What's the result?
+// Output: "John"

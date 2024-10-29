@@ -45,7 +45,6 @@ Think of a constructor like a cookie cutter. It defines the structure (propertie
 - **Reusability:** You can create multiple objects with similar properties using the same constructor function, saving time and code.
 - **Maintainability:** If you need to change the object structure (e.g., add a new property), you only need to modify the constructor function, which affects all objects created from it.
 
-```markdown
 ## Constructors and the `new` Operator
 
 Constructors are special functions used to create objects with reusable blueprints.
@@ -67,7 +66,7 @@ Constructors are special functions used to create objects with reusable blueprin
 
 - Reusability: Create multiple objects with similar properties.
 - Maintainability: Modify the constructor once to affect all objects.
-```
+
 
 ## Reusable Object Creation with Constructors
 
